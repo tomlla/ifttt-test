@@ -19,8 +19,8 @@ servers:
           - "8080"
         default: "18080"
 
-security:
-  - foobarAuth: []
+# security:
+#   - foobarAuth: []
 tags:
   - name: article
   - name: user
